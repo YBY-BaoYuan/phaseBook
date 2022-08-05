@@ -24,6 +24,6 @@ composer install
 
 5\. 配置相关域名进行访问 （本地访问）
 
-![Laravel Web页面](<.gitbook/assets/image (1) (1).png>)
+![Laravel Web页面](<.gitbook/assets/Web 默认页面>)
 
 6\. 至此，Laravel框架已经基本走通
