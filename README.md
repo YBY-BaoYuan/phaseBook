@@ -9,12 +9,12 @@ description: >-
 2. 然后执行命令
 
 ```php
-composer create-project laravel/laravel phaseUse (phase自定义目录)
+composer create-project laravel/laravel phaseUse (phaseUse自定义目录)
 ```
 
 3\. 如图所示
 
-![Laravel项目](<.gitbook/assets/image (3) (1).png>)
+![Laravel项目](<.gitbook/assets/Laravel MD>)
 
 4\. 执行命令 (安装Laravel相关依赖)
 
