@@ -8,22 +8,22 @@ description: >-
 1. 首先确保你已经有PHP和Composer的环境
 2. 然后执行命令
 
-```
+```php
 composer create-project laravel/laravel phaseUse (phase自定义目录)
 ```
 
 3\. 如图所示
 
-![Laravel项目](<.gitbook/assets/image (3).png>)
+![Laravel项目](<.gitbook/assets/image (3) (1).png>)
 
 4\. 执行命令 (安装Laravel相关依赖)
 
-```
+```php
 composer install
 ```
 
 5\. 配置相关域名进行访问 （本地访问）
 
-![Laravel Web页面](<.gitbook/assets/image (1).png>)
+![Laravel Web页面](<.gitbook/assets/image (1) (1).png>)
 
 6\. 至此，Laravel框架已经基本走通

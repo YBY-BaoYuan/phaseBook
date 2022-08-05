@@ -9,3 +9,19 @@ description: Laravel最前置的工作就是配置 Mysql 和 Redis，您需要�
 ![.env](.gitbook/assets/image.png)
 
 2\. 初次先不做Redis的配置，后续在讲解
+
+3\. 搭建 mytest 命令行调试
+
+<pre class="language-php"><code class="lang-php">php artisan make:command mytest
+
+//$signature    设置命令名称
+//$description  添加命令备注
+<strong>//当执行  php artisan  时候会展示</strong></code></pre>
+
+![php artisan make:command mytest](<.gitbook/assets/image (2).png>)
+
+![php artisan](<.gitbook/assets/image (3).png>)
+
+4\. 修改 config/app.php 文件&#x20;
+
+![config/app.php](<.gitbook/assets/image (1).png>)
